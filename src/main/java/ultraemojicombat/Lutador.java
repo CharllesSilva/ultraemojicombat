@@ -107,7 +107,7 @@ public class Lutador {
         this.empates = empates;
     }
     public void apresentar(){
-        System.out.println("--LUTADOR: "+getNome()+"--");
+        System.out.println("--LUTADOR "+getNome()+"--");
         System.out.println("Nacionalidade: "+getNacionalidade());
         System.out.println("Idade: "+getIdade());
         System.out.println("Altura: "+getAltura());

@@ -1,4 +1,6 @@
 ultraemojicombat/Lutador.java
  ultraemojicombat.Lutador
+ultraemojicombat/Luta.java
+ ultraemojicombat.Luta
 ultraemojicombat/UltraEmojiCombat.java
  ultraemojicombat.UltraEmojiCombat
